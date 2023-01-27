@@ -1,0 +1,9 @@
+export const REGISTER_USER = "REGISTER_USER";
+export const GET_USERS_LIST = "GET_USERS_LIST";
+export const ADD_USER = "ADD_USER";
+export const GET_USER_DETAILS = "GET_USER_DETAILS";
+export const EDIT_USER_DETAILS = "EDIT_USER_DETAILS";
+export const DELETE_USER = "DELETE_USER";
+export const USER_LIST_SORT = "USER_LIST_SORT";
+export const GET_ALL_USER = "GET_ALL_USER";
+export const SEARCH_USER = "SEARCH_USER";
